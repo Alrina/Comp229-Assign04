@@ -10,15 +10,15 @@
 namespace Comp229_Assign04 {
     
     
-    public partial class SiteMaster {
+    public partial class _Default {
         
         /// <summary>
-        /// MainContent control.
+        /// modelsRepeater control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.ContentPlaceHolder MainContent;
+        protected global::System.Web.UI.WebControls.Repeater modelsRepeater;
     }
 }
